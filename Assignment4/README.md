@@ -67,3 +67,8 @@ The output comparison chart (`gap12_comparison_rcga.png`) helps you visually com
 
 ---
 Generated automatically.
+
+> Author: *Aniket Ranjan*  
+> Date: *April 2025*
+
+GITHUB Link: https://github.com/kingsonu12/EvolutionaryComputation_Assignments
