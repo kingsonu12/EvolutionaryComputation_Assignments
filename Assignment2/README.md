@@ -54,7 +54,7 @@ The resulting plot shows objective values for each test case and problem set (`g
 ---
 Generated automatically.
 
-Author: Aniket Ranjan
-Date: April 2025
+> Author: Aniket Ranjan
+> Date: April 2025
 
 GITHUB Link: https://github.com/kingsonu12/EvolutionaryComputation_Assignments
