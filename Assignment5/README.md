@@ -68,3 +68,8 @@ The comparison chart (`gap12_comparison_all.png`) provides a visual evaluation o
 
 ---
 Generated automatically.
+
+> Author: *Aniket Ranjan*  
+> Date: *April 2025*
+
+GITHUB Link: https://github.com/kingsonu12/EvolutionaryComputation_Assignments
