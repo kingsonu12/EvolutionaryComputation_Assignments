@@ -62,3 +62,8 @@ The comparison plot (`gap12_comparison.png`) shows how the BCGA stacks up agains
 
 ---
 Generated automatically.
+
+> Author: *Aniket Ranjan*  
+> Date: *April 2025*
+
+GITHUB Link: https://github.com/kingsonu12/EvolutionaryComputation_Assignments
