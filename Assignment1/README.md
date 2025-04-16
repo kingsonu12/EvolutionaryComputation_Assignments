@@ -51,5 +51,7 @@ The label **"Optimal Solution"** marks the region of interest in the upper value
 
 ---
 
-> Author: *[Your Name]*  
+> Author: *Aniket Ranjan*  
 > Date: *April 2025*
+
+GITHUB Link: https://github.com/kingsonu12/EvolutionaryComputation_Assignments
